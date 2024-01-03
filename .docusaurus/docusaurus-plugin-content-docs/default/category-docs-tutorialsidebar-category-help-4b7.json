@@ -1,0 +1,15 @@
+{
+  "title": "Help",
+  "slug": "/category/help",
+  "permalink": "/docs/category/help",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/tutorial-extras/translate-your-site"
+    },
+    "next": {
+      "title": "creating-account",
+      "permalink": "/docs/Help/creating-account"
+    }
+  }
+}

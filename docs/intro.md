@@ -2,15 +2,14 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+## What Is GeoSIS?
 
-Get started by **creating a new site**.
+GeoSIS is a Location Intelligence platform that provides various services including supporting needs in processing, storing, managing and monitoring Spatial data. By using analysis services in GeoSIS, users can optimize business processes and predict future results through Spatial Data Science.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Go to Page  **[Login](#)**.
 
 ### What you'll need
 

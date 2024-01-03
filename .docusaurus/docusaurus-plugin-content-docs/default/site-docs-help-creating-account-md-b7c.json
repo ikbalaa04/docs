@@ -1,0 +1,19 @@
+{
+  "id": "Help/creating-account",
+  "title": "creating-account",
+  "description": "",
+  "source": "@site/docs/Help/creating-account.md",
+  "sourceDirName": "Help",
+  "slug": "/Help/creating-account",
+  "permalink": "/docs/Help/creating-account",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Help",
+    "permalink": "/docs/category/help"
+  }
+}

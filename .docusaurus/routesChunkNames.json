@@ -186,54 +186,62 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-2e0": {
+  "/docs-2c3": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-1-a-0-bc4"
     }
   },
-  "/docs-40b": {
+  "/docs-825": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-292": {
+  "/docs-5de": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/tutorial---basics-d44": {
+  "/docs/category/get-started-9e4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-get-started-889-dcc"
+  },
+  "/docs/category/help-998": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-help-904-001"
   },
   "/docs/category/tutorial---extras-f09": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
   },
+  "/docs/Get started/congratulations-c57": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-get-started-congratulations-79-e-c03"
+  },
+  "/docs/Get started/create-a-blog-post-b57": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-get-started-create-a-blog-postcde-44f"
+  },
+  "/docs/Get started/create-a-document-31e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-get-started-create-a-documentc-24-b03"
+  },
+  "/docs/Get started/create-a-page-935": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-get-started-create-a-page-7-ff-bf5"
+  },
+  "/docs/Get started/deploy-your-site-856": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-get-started-deploy-your-sitebdd-d1d"
+  },
+  "/docs/Get started/markdown-features-5cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-get-started-markdown-featuresaa-2-abb"
+  },
+  "/docs/Help/creating-account-4bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-help-creating-accountb-7-c-6e1"
+  },
   "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
-  },
-  "/docs/tutorial-basics/congratulations-793": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
-  },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
-  },
-  "/docs/tutorial-basics/create-a-document-c2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-f44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/docs/tutorial-basics/markdown-features-4b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
   },
   "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "__comp": "__comp---theme-doc-item-178-a40",
