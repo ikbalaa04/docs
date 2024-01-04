@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '1d2'),
+    component: ComponentCreator('/docs', 'fff'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '589'),
+        component: ComponentCreator('/docs', '82a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '272'),
+            component: ComponentCreator('/docs', '7ef'),
             routes: [
               {
                 path: '/docs/category/get-started',
@@ -122,8 +122,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/category/quickstart-guides',
+                component: ComponentCreator('/docs/category/quickstart-guides', '810'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/category/tutorial---extras',
                 component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Get started/Quickstart/connect',
+                component: ComponentCreator('/docs/Get started/Quickstart/connect', '960'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

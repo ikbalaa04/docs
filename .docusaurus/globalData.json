@@ -11,6 +11,11 @@
           "mainDocId": "welcome",
           "docs": [
             {
+              "id": "Get started/Quickstart/connect",
+              "path": "/docs/Get started/Quickstart/connect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Get started/whatisGeoSIS",
               "path": "/docs/Get started/whatisGeoSIS",
               "sidebar": "tutorialSidebar"
@@ -38,6 +43,11 @@
             {
               "id": "/category/get-started",
               "path": "/docs/category/get-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/quickstart-guides",
+              "path": "/docs/category/quickstart-guides",
               "sidebar": "tutorialSidebar"
             },
             {

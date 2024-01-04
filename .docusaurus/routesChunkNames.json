@@ -186,17 +186,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-1d2": {
+  "/docs-fff": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsfe-3-b6f"
     }
   },
-  "/docs-589": {
+  "/docs-82a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-272": {
+  "/docs-7ef": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/get-started-9e4": {
@@ -207,9 +207,17 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-help-904-001"
   },
+  "/docs/category/quickstart-guides-810": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-quickstart-guides-79-f-f80"
+  },
   "/docs/category/tutorial---extras-f09": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+  },
+  "/docs/Get started/Quickstart/connect-960": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-get-started-quickstart-connectc-18-7f2"
   },
   "/docs/Get started/whatisGeoSIS-770": {
     "__comp": "__comp---theme-doc-item-178-a40",
