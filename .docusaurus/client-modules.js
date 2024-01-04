@@ -1,6 +1,6 @@
 export default [
-  require("D:\\Developer\\geosis\\docs\\node_modules\\infima\\dist\\css\\default\\default.css"),
-  require("D:\\Developer\\geosis\\docs\\node_modules\\@docusaurus\\theme-classic\\lib\\prism-include-languages"),
-  require("D:\\Developer\\geosis\\docs\\node_modules\\@docusaurus\\theme-classic\\lib\\nprogress"),
-  require("D:\\Developer\\geosis\\docs\\src\\css\\custom.css"),
+  require("D:\\project GEOSIS\\docs\\node_modules\\infima\\dist\\css\\default\\default.css"),
+  require("D:\\project GEOSIS\\docs\\node_modules\\@docusaurus\\theme-classic\\lib\\prism-include-languages"),
+  require("D:\\project GEOSIS\\docs\\node_modules\\@docusaurus\\theme-classic\\lib\\nprogress"),
+  require("D:\\project GEOSIS\\docs\\src\\css\\custom.css"),
 ];
