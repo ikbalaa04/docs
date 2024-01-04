@@ -1,0 +1,26 @@
+{
+  "id": "overview/workspace-overview",
+  "title": "GeoSIS Workspace overview",
+  "description": "Learn everything you need to know about your Workspace and how to make the most out of it.",
+  "source": "@site/docs/overview/workspace-overview.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/workspace-overview",
+  "permalink": "/docs/overview/workspace-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating your GeoSIS account",
+    "permalink": "/docs/overview/creating-account"
+  },
+  "next": {
+    "title": "Maps",
+    "permalink": "/docs/category/maps"
+  }
+}

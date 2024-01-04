@@ -1,0 +1,15 @@
+{
+  "title": "Map",
+  "slug": "/category/map-1",
+  "permalink": "/docs/category/map-1",
+  "navigation": {
+    "previous": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/Workflows/data-source"
+    },
+    "next": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/map/data-source"
+    }
+  }
+}

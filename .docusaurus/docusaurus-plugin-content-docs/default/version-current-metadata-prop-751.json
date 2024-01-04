@@ -69,34 +69,195 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "Overview",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions",
+            "label": "Creating your GeoSIS account",
+            "href": "/docs/overview/creating-account",
+            "docId": "overview/creating-account",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site",
+            "label": "GeoSIS Workspace overview",
+            "href": "/docs/overview/workspace-overview",
+            "docId": "overview/workspace-overview",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/docs/category/overview"
+      },
+      {
+        "type": "category",
+        "label": "Maps",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Creating your GeoSIS account",
+            "href": "/docs/map/data-source",
+            "docId": "map/data-source",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/maps"
+      },
+      {
+        "type": "category",
+        "label": "Workflows",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Creating your GeoSIS account",
+            "href": "/docs/Workflows/data-source",
+            "docId": "Workflows/data-source",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/workflows"
+      },
+      {
+        "type": "category",
+        "label": "Data Explorer",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Creating your GeoSIS account",
+            "href": "/docs/data-explorer/data-source",
+            "docId": "data-explorer/data-source",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/data-explorer"
+      },
+      {
+        "type": "category",
+        "label": "Connections",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Creating your GeoSIS account",
+            "href": "/docs/connections/data-source",
+            "docId": "connections/data-source",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/connections"
+      },
+      {
+        "type": "category",
+        "label": "Aplications",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Creating your GeoSIS account",
+            "href": "/docs/aplications/data-source",
+            "docId": "aplications/data-source",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/aplications"
+      },
+      {
+        "type": "category",
+        "label": "Settings",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Creating your GeoSIS account",
+            "href": "/docs/settings/data-source",
+            "docId": "settings/data-source",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/settings"
+      },
+      {
+        "type": "category",
+        "label": "Tutorials",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Creating your GeoSIS account",
+            "href": "/docs/tutorials/data-source",
+            "docId": "tutorials/data-source",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/tutorials"
+      },
+      {
+        "type": "link",
+        "label": "DATA & ANALYSIS",
+        "href": "/docs/data-and-analysis",
+        "docId": "data-and-analysis",
+        "unlisted": false
       }
     ]
   },
   "docs": {
+    "aplications/data-source": {
+      "id": "aplications/data-source",
+      "title": "Creating your GeoSIS account",
+      "description": "The GeoSIS Workspace is the user interface for our next generation cloud-native Location Intelligence platform. It allows you to create stunning maps and to perform spatial analytics at scale, with everything running directly on top of your cloud data warehouse(s).",
+      "sidebar": "tutorialSidebar"
+    },
+    "connections/data-source": {
+      "id": "connections/data-source",
+      "title": "Creating your GeoSIS account",
+      "description": "The GeoSIS Workspace is the user interface for our next generation cloud-native Location Intelligence platform. It allows you to create stunning maps and to perform spatial analytics at scale, with everything running directly on top of your cloud data warehouse(s).",
+      "sidebar": "tutorialSidebar"
+    },
+    "data-and-analysis": {
+      "id": "data-and-analysis",
+      "title": "DATA & ANALYSIS",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "data-explorer/data-source": {
+      "id": "data-explorer/data-source",
+      "title": "Creating your GeoSIS account",
+      "description": "The GeoSIS Workspace is the user interface for our next generation cloud-native Location Intelligence platform. It allows you to create stunning maps and to perform spatial analytics at scale, with everything running directly on top of your cloud data warehouse(s).",
+      "sidebar": "tutorialSidebar"
+    },
     "getting-started": {
       "id": "getting-started",
       "title": "GETTING STARTED",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "map/data-source": {
+      "id": "map/data-source",
+      "title": "Creating your GeoSIS account",
+      "description": "The GeoSIS Workspace is the user interface for our next generation cloud-native Location Intelligence platform. It allows you to create stunning maps and to perform spatial analytics at scale, with everything running directly on top of your cloud data warehouse(s).",
+      "sidebar": "tutorialSidebar"
+    },
+    "overview/creating-account": {
+      "id": "overview/creating-account",
+      "title": "Creating your GeoSIS account",
+      "description": "The GeoSIS Workspace is the user interface for our next generation cloud-native Location Intelligence platform. It allows you to create stunning maps and to perform spatial analytics at scale, with everything running directly on top of your cloud data warehouse(s).",
+      "sidebar": "tutorialSidebar"
+    },
+    "overview/workspace-overview": {
+      "id": "overview/workspace-overview",
+      "title": "GeoSIS Workspace overview",
+      "description": "Learn everything you need to know about your Workspace and how to make the most out of it.",
       "sidebar": "tutorialSidebar"
     },
     "Quickstart/connect": {
@@ -117,16 +278,16 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+    "settings/data-source": {
+      "id": "settings/data-source",
+      "title": "Creating your GeoSIS account",
+      "description": "The GeoSIS Workspace is the user interface for our next generation cloud-native Location Intelligence platform. It allows you to create stunning maps and to perform spatial analytics at scale, with everything running directly on top of your cloud data warehouse(s).",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "tutorials/data-source": {
+      "id": "tutorials/data-source",
+      "title": "Creating your GeoSIS account",
+      "description": "The GeoSIS Workspace is the user interface for our next generation cloud-native Location Intelligence platform. It allows you to create stunning maps and to perform spatial analytics at scale, with everything running directly on top of your cloud data warehouse(s).",
       "sidebar": "tutorialSidebar"
     },
     "user-manual": {
@@ -145,6 +306,12 @@
       "id": "what-is-GeoSIS",
       "title": "What is GeoSIS?",
       "description": "GeoSIS is a Location Intelligence platform that provides various services including supporting needs in processing,",
+      "sidebar": "tutorialSidebar"
+    },
+    "Workflows/data-source": {
+      "id": "Workflows/data-source",
+      "title": "Creating your GeoSIS account",
+      "description": "The GeoSIS Workspace is the user interface for our next generation cloud-native Location Intelligence platform. It allows you to create stunning maps and to perform spatial analytics at scale, with everything running directly on top of your cloud data warehouse(s).",
       "sidebar": "tutorialSidebar"
     }
   }

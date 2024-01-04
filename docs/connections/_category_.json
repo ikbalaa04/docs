@@ -1,8 +1,7 @@
 {
-  "label": "GET STARTED",
-  "position": 4,
+  "label": "Connections",
+  "position": 10,
   "link": {
     "type": "generated-index"
   }
 }
-

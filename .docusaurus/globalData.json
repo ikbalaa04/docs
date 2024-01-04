@@ -11,8 +11,43 @@
           "mainDocId": "welcome",
           "docs": [
             {
+              "id": "aplications/data-source",
+              "path": "/docs/aplications/data-source",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "connections/data-source",
+              "path": "/docs/connections/data-source",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data-and-analysis",
+              "path": "/docs/data-and-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data-explorer/data-source",
+              "path": "/docs/data-explorer/data-source",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "getting-started",
               "path": "/docs/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "map/data-source",
+              "path": "/docs/map/data-source",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview/creating-account",
+              "path": "/docs/overview/creating-account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview/workspace-overview",
+              "path": "/docs/overview/workspace-overview",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -31,13 +66,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "settings/data-source",
+              "path": "/docs/settings/data-source",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "tutorials/data-source",
+              "path": "/docs/tutorials/data-source",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -56,13 +91,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Workflows/data-source",
+              "path": "/docs/Workflows/data-source",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/quickstart-guides",
               "path": "/docs/category/quickstart-guides",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "/category/overview",
+              "path": "/docs/category/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/maps",
+              "path": "/docs/category/maps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/workflows",
+              "path": "/docs/category/workflows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/data-explorer",
+              "path": "/docs/category/data-explorer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/connections",
+              "path": "/docs/category/connections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/aplications",
+              "path": "/docs/category/aplications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/settings",
+              "path": "/docs/category/settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorials",
+              "path": "/docs/category/tutorials",
               "sidebar": "tutorialSidebar"
             }
           ],

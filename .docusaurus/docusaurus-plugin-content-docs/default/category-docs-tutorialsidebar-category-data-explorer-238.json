@@ -1,0 +1,15 @@
+{
+  "title": "Data Explorer",
+  "slug": "/category/data-explorer",
+  "permalink": "/docs/category/data-explorer",
+  "navigation": {
+    "previous": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/Workflows/data-source"
+    },
+    "next": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/data-explorer/data-source"
+    }
+  }
+}

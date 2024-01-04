@@ -1,0 +1,15 @@
+{
+  "title": "Aplications",
+  "slug": "/category/aplications-1",
+  "permalink": "/docs/category/aplications-1",
+  "navigation": {
+    "previous": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/aplications/data-source"
+    },
+    "next": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/settings/data-source"
+    }
+  }
+}

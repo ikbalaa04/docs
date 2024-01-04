@@ -1,0 +1,15 @@
+{
+  "title": "Connection",
+  "slug": "/category/connection",
+  "permalink": "/docs/category/connection",
+  "navigation": {
+    "previous": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/data-explorer/data-source"
+    },
+    "next": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/connections/data-source"
+    }
+  }
+}

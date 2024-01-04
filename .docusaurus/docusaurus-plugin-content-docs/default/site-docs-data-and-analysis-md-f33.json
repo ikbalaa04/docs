@@ -1,0 +1,22 @@
+{
+  "id": "data-and-analysis",
+  "title": "DATA & ANALYSIS",
+  "description": "",
+  "source": "@site/docs/data-and-analysis.md",
+  "sourceDirName": ".",
+  "slug": "/data-and-analysis",
+  "permalink": "/docs/data-and-analysis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating your GeoSIS account",
+    "permalink": "/docs/tutorials/data-source"
+  }
+}

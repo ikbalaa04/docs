@@ -1,0 +1,15 @@
+{
+  "title": "Overview",
+  "slug": "/category/overview",
+  "permalink": "/docs/category/overview",
+  "navigation": {
+    "previous": {
+      "title": "USER MANUAL",
+      "permalink": "/docs/user-manual"
+    },
+    "next": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/overview/creating-account"
+    }
+  }
+}

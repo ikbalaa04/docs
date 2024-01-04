@@ -99,16 +99,52 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '779'),
+    component: ComponentCreator('/docs', '9d4'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '94a'),
+        component: ComponentCreator('/docs', 'bc0'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '48f'),
+            component: ComponentCreator('/docs', '053'),
             routes: [
+              {
+                path: '/docs/aplications/data-source',
+                component: ComponentCreator('/docs/aplications/data-source', '7d2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/aplications',
+                component: ComponentCreator('/docs/category/aplications', 'fcb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/connections',
+                component: ComponentCreator('/docs/category/connections', '2f0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/data-explorer',
+                component: ComponentCreator('/docs/category/data-explorer', 'f04'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/maps',
+                component: ComponentCreator('/docs/category/maps', '475'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/overview',
+                component: ComponentCreator('/docs/category/overview', 'a36'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/category/quickstart-guides',
                 component: ComponentCreator('/docs/category/quickstart-guides', '810'),
@@ -116,14 +152,62 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+                path: '/docs/category/settings',
+                component: ComponentCreator('/docs/category/settings', 'a03'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/tutorials',
+                component: ComponentCreator('/docs/category/tutorials', 'f40'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/workflows',
+                component: ComponentCreator('/docs/category/workflows', '331'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connections/data-source',
+                component: ComponentCreator('/docs/connections/data-source', '37a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/data-and-analysis',
+                component: ComponentCreator('/docs/data-and-analysis', '419'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/data-explorer/data-source',
+                component: ComponentCreator('/docs/data-explorer/data-source', '3ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/getting-started',
                 component: ComponentCreator('/docs/getting-started', 'a24'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/map/data-source',
+                component: ComponentCreator('/docs/map/data-source', 'a19'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/overview/creating-account',
+                component: ComponentCreator('/docs/overview/creating-account', '870'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/overview/workspace-overview',
+                component: ComponentCreator('/docs/overview/workspace-overview', '11e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -146,14 +230,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
+                path: '/docs/settings/data-source',
+                component: ComponentCreator('/docs/settings/data-source', 'ddf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+                path: '/docs/tutorials/data-source',
+                component: ComponentCreator('/docs/tutorials/data-source', 'ca9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -172,6 +256,12 @@ export default [
               {
                 path: '/docs/what-is-GeoSIS',
                 component: ComponentCreator('/docs/what-is-GeoSIS', 'b2b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Workflows/data-source',
+                component: ComponentCreator('/docs/Workflows/data-source', '14e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

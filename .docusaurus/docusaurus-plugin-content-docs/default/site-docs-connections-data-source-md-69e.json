@@ -1,0 +1,26 @@
+{
+  "id": "connections/data-source",
+  "title": "Creating your GeoSIS account",
+  "description": "The GeoSIS Workspace is the user interface for our next generation cloud-native Location Intelligence platform. It allows you to create stunning maps and to perform spatial analytics at scale, with everything running directly on top of your cloud data warehouse(s).",
+  "source": "@site/docs/connections/data-source.md",
+  "sourceDirName": "connections",
+  "slug": "/connections/data-source",
+  "permalink": "/docs/connections/data-source",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connections",
+    "permalink": "/docs/category/connections"
+  },
+  "next": {
+    "title": "Aplications",
+    "permalink": "/docs/category/aplications"
+  }
+}

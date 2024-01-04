@@ -1,0 +1,15 @@
+{
+  "title": "Workflows",
+  "slug": "/category/workflows",
+  "permalink": "/docs/category/workflows",
+  "navigation": {
+    "previous": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/map/data-source"
+    },
+    "next": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/Workflows/data-source"
+    }
+  }
+}

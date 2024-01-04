@@ -186,30 +186,86 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-779": {
+  "/docs-9d4": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-1-a-0-bc4"
     }
   },
-  "/docs-94a": {
+  "/docs-bc0": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-48f": {
+  "/docs-053": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/aplications/data-source-7d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-aplications-data-source-044-22f"
+  },
+  "/docs/category/aplications-fcb": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-aplications-2-cb-8f3"
+  },
+  "/docs/category/connections-2f0": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-connections-9-a-8-bfa"
+  },
+  "/docs/category/data-explorer-f04": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-data-explorer-6-aa-da0"
+  },
+  "/docs/category/maps-475": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-mapsc-95-26e"
+  },
+  "/docs/category/overview-a36": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-overview-88-b-0c7"
   },
   "/docs/category/quickstart-guides-810": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-quickstart-guides-79-f-f80"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/docs/category/settings-a03": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-settings-98-d-f61"
+  },
+  "/docs/category/tutorials-f40": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorials-4-cd-b44"
+  },
+  "/docs/category/workflows-331": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-workflows-653-4ae"
+  },
+  "/docs/connections/data-source-37a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-connections-data-source-69-e-7a0"
+  },
+  "/docs/data-and-analysis-419": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-data-and-analysisf-33-15b"
+  },
+  "/docs/data-explorer/data-source-3ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-data-explorer-data-source-576-5df"
   },
   "/docs/getting-started-a24": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-getting-startedd-58-f94"
+  },
+  "/docs/map/data-source-a19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-map-data-sourceb-1-b-750"
+  },
+  "/docs/overview/creating-account-870": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-overview-creating-accountf-73-e2b"
+  },
+  "/docs/overview/workspace-overview-11e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-overview-workspace-overview-610-151"
   },
   "/docs/Quickstart/connect-071": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -223,13 +279,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-quickstart-workflowe-43-854"
   },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+  "/docs/settings/data-source-ddf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+    "content": "content---docs-settings-data-source-2-b-9-713"
   },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
+  "/docs/tutorials/data-source-ca9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---docs-tutorials-data-sourced-0-c-ff6"
   },
   "/docs/user-manual-e80": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -242,6 +298,10 @@
   "/docs/what-is-GeoSIS-b2b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-what-is-geo-sis-505-42a"
+  },
+  "/docs/Workflows/data-source-14e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-workflows-data-source-1-d-4-78f"
   },
   "/-61c": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
