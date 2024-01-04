@@ -10,6 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "GeoSIS",
   favicon: "img/favicon.ico",
+  trailingSlash: true,
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -29,8 +30,16 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: 'en',
+    locales: ['en', 'ru'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      ru: {
+        label: 'Indonessia',
+      },
+    },
   },
 
   presets: [
@@ -75,6 +84,10 @@ const config = {
             position: "right",
           },
           {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+          {
             href: "#",
             label: "Login",
             position: "right",
@@ -90,6 +103,12 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      algolia: {
+        appId: 'KNJZ5D60XY',
+        apiKey: 'fb60cbd2d509692aa2646143b0dea6d5',
+        indexName: 'lsfusion',
+        contextualSearch: true,
       },
     }),
 };

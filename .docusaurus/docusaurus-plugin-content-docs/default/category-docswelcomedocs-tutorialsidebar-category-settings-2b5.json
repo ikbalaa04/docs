@@ -1,0 +1,15 @@
+{
+  "title": "Settings",
+  "slug": "/category/settings",
+  "permalink": "/docs/welcome/docs/category/settings",
+  "navigation": {
+    "previous": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/welcome/docs/aplications/data-source"
+    },
+    "next": {
+      "title": "Creating your GeoSIS account",
+      "permalink": "/docs/welcome/docs/settings/data-source"
+    }
+  }
+}

@@ -6,6 +6,7 @@
 export default {
   "title": "GeoSIS",
   "favicon": "img/favicon.ico",
+  "trailingSlash": true,
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
   "organizationName": "GeoSIS",
@@ -15,10 +16,20 @@ export default {
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en"
+      "en",
+      "ru"
     ],
-    "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "en": {
+        "label": "English",
+        "direction": "ltr"
+      },
+      "ru": {
+        "label": "Indonessia",
+        "direction": "ltr"
+      }
+    },
+    "path": "i18n"
   },
   "presets": [
     [
@@ -55,6 +66,12 @@ export default {
           "href": "https://github.com/facebook/docusaurus",
           "label": "GitHub",
           "position": "right"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
           "href": "#",
@@ -272,6 +289,14 @@ export default {
           }
         }
       ]
+    },
+    "algolia": {
+      "appId": "KNJZ5D60XY",
+      "apiKey": "fb60cbd2d509692aa2646143b0dea6d5",
+      "indexName": "lsfusion",
+      "contextualSearch": true,
+      "searchParameters": {},
+      "searchPagePath": "search"
     },
     "colorMode": {
       "defaultMode": "light",

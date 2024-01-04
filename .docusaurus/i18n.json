@@ -1,7 +1,8 @@
 {
   "defaultLocale": "en",
   "locales": [
-    "en"
+    "en",
+    "ru"
   ],
   "path": "i18n",
   "currentLocale": "en",
@@ -12,6 +13,13 @@
       "htmlLang": "en",
       "calendar": "gregory",
       "path": "en"
+    },
+    "ru": {
+      "label": "Indonessia",
+      "direction": "ltr",
+      "htmlLang": "ru",
+      "calendar": "gregory",
+      "path": "ru"
     }
   }
 }

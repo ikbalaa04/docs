@@ -1,0 +1,16 @@
+{
+  "title": "Quickstart Guides",
+  "description": "These guides will help you get started with GeoSIS. They're easy to follow with detailed steps, and will help you kickstart your project with your own connections, maps, workflows, and applications.",
+  "slug": "/category/quickstart-guides",
+  "permalink": "/docs/welcome/docs/category/quickstart-guides",
+  "navigation": {
+    "previous": {
+      "title": "What is GeoSIS?",
+      "permalink": "/docs/welcome/docs/what-is-GeoSIS"
+    },
+    "next": {
+      "title": "Connecting to your data",
+      "permalink": "/docs/welcome/docs/Quickstart/connect"
+    }
+  }
+}
