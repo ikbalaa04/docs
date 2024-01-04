@@ -4,8 +4,8 @@
   "permalink": "/docs/category/help",
   "navigation": {
     "previous": {
-      "title": "Translate your site",
-      "permalink": "/docs/tutorial-extras/translate-your-site"
+      "title": "Creating your first workflow",
+      "permalink": "/docs/Quickstart/workflow"
     },
     "next": {
       "title": "creating-account",

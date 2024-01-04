@@ -1,0 +1,26 @@
+{
+  "id": "Quickstart/workflow",
+  "title": "Creating your first workflow",
+  "description": "",
+  "source": "@site/docs/Quickstart/workflow.md",
+  "sourceDirName": "Quickstart",
+  "slug": "/Quickstart/workflow",
+  "permalink": "/docs/Quickstart/workflow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating your first map",
+    "permalink": "/docs/Quickstart/creating"
+  },
+  "next": {
+    "title": "USER MANUAL",
+    "permalink": "/docs/user-manual"
+  }
+}

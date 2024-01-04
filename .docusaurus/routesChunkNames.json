@@ -1,51 +1,51 @@
 {
-  "/__docusaurus/debug-4d0": {
+  "/__docusaurus/debug-ff8": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-87-f-d82"
+      "plugin": "plugin---docusaurus-debuga-86-2ba"
     }
   },
-  "/__docusaurus/debug/config-bdf": {
+  "/__docusaurus/debug/config-601": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-87-f-d82"
+      "plugin": "plugin---docusaurus-debuga-86-2ba"
     }
   },
-  "/__docusaurus/debug/content-e58": {
+  "/__docusaurus/debug/content-a8e": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-87-f-d82"
+      "plugin": "plugin---docusaurus-debuga-86-2ba"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-ed2": {
+  "/__docusaurus/debug/globalData-2a3": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-87-f-d82"
+      "plugin": "plugin---docusaurus-debuga-86-2ba"
     }
   },
-  "/__docusaurus/debug/metadata-c53": {
+  "/__docusaurus/debug/metadata-d9a": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-87-f-d82"
+      "plugin": "plugin---docusaurus-debuga-86-2ba"
     }
   },
-  "/__docusaurus/debug/registry-d51": {
+  "/__docusaurus/debug/registry-e13": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-87-f-d82"
+      "plugin": "plugin---docusaurus-debuga-86-2ba"
     }
   },
-  "/__docusaurus/debug/routes-b57": {
+  "/__docusaurus/debug/routes-68f": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-87-f-d82"
+      "plugin": "plugin---docusaurus-debuga-86-2ba"
     }
   },
-  "/blog-4df": {
+  "/blog-ff8": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -64,49 +64,49 @@
     ],
     "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/archive-d79": {
+  "/blog/archive-a27": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/blog/first-blog-post-8b4": {
+  "/blog/first-blog-post-c6e": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-first-blog-poste-27-4a1"
   },
-  "/blog/long-blog-post-95a": {
+  "/blog/long-blog-post-971": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-long-blog-post-736-bc7"
   },
-  "/blog/mdx-blog-post-b04": {
+  "/blog/mdx-blog-post-8ca": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-mdx-blog-post-593-37b"
   },
-  "/blog/tags-27d": {
+  "/blog/tags-c22": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---blog-tagsa-70-da2"
   },
-  "/blog/tags/docusaurus-c58": {
+  "/blog/tags/docusaurus-37c": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -126,10 +126,10 @@
     "tag": "tag---blog-tags-docusaurusa-80-728",
     "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
   },
-  "/blog/tags/facebook-f27": {
+  "/blog/tags/facebook-fa5": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -140,10 +140,10 @@
     "tag": "tag---blog-tags-facebook-031-c52",
     "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
   },
-  "/blog/tags/hello-4d0": {
+  "/blog/tags/hello-d19": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -157,10 +157,10 @@
     "tag": "tag---blog-tags-hello-30-a-bed",
     "listMetadata": "listMetadata---blog-tags-hello-664-70a"
   },
-  "/blog/tags/hola-0d5": {
+  "/blog/tags/hola-4cd": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -171,41 +171,33 @@
     "tag": "tag---blog-tags-holae-16-18a",
     "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
-  "/blog/welcome-703": {
+  "/blog/welcome-44a": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogfb-2-e8f"
+      "plugin": "plugin---blogae-8-7aa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/markdown-page-09c": {
+  "/markdown-page-cf4": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagebb-6-e74"
+      "plugin": "plugin---markdown-page-55-e-f2b"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-fff": {
+  "/docs-779": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docsfe-3-b6f"
+      "plugin": "plugin---docs-1-a-0-bc4"
     }
   },
-  "/docs-82a": {
+  "/docs-94a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-7ef": {
+  "/docs-48f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/docs/category/get-started-9e4": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-get-started-889-dcc"
-  },
-  "/docs/category/help-998": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-help-904-001"
   },
   "/docs/category/quickstart-guides-810": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -215,17 +207,21 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
   },
-  "/docs/Get started/Quickstart/connect-960": {
+  "/docs/getting-started-a24": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-quickstart-connectc-18-7f2"
+    "content": "content---docs-getting-startedd-58-f94"
   },
-  "/docs/Get started/whatisGeoSIS-770": {
+  "/docs/Quickstart/connect-071": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-whatis-geo-sis-94-e-16c"
+    "content": "content---docs-quickstart-connecte-17-dea"
   },
-  "/docs/Help/creating-account-4bc": {
+  "/docs/Quickstart/creating-c71": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-help-creating-accountb-7-c-6e1"
+    "content": "content---docs-quickstart-creating-738-229"
+  },
+  "/docs/Quickstart/workflow-ae3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quickstart-workflowe-43-854"
   },
   "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -235,14 +231,22 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
+  "/docs/user-manual-e80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-manual-7-c-1-15f"
+  },
   "/docs/welcome-a64": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-welcomeebf-790"
   },
-  "/-1a4": {
+  "/docs/what-is-GeoSIS-b2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-what-is-geo-sis-505-42a"
+  },
+  "/-61c": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-pagebb-6-e74"
+      "plugin": "plugin---markdown-page-55-e-f2b"
     },
     "config": "config---5-e-9-4f3"
   }

@@ -1,0 +1,26 @@
+{
+  "id": "getting-started",
+  "title": "GETTING STARTED",
+  "description": "",
+  "source": "@site/docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/docs/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/docs/welcome"
+  },
+  "next": {
+    "title": "What is GeoSIS?",
+    "permalink": "/docs/what-is-GeoSIS"
+  }
+}

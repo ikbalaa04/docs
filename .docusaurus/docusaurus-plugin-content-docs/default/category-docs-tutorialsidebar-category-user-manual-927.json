@@ -1,0 +1,15 @@
+{
+  "title": "USER MANUAL",
+  "slug": "/category/user-manual",
+  "permalink": "/docs/category/user-manual",
+  "navigation": {
+    "previous": {
+      "title": "GETTING STARTED",
+      "permalink": "/docs/started"
+    },
+    "next": {
+      "title": "overview",
+      "permalink": "/docs/User-manual/overview"
+    }
+  }
+}

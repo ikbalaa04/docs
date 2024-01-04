@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "GET STARTED",
-    "permalink": "/docs/category/get-started"
+    "title": "GETTING STARTED",
+    "permalink": "/docs/getting-started"
   }
 }

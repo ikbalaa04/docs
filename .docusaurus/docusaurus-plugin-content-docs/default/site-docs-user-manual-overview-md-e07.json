@@ -1,0 +1,23 @@
+{
+  "id": "User-manual/overview",
+  "title": "overview",
+  "description": "",
+  "source": "@site/docs/User-manual/overview.md",
+  "sourceDirName": "User-manual",
+  "slug": "/User-manual/overview",
+  "permalink": "/docs/User-manual/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "USER MANUAL",
+    "permalink": "/docs/category/user-manual"
+  },
+  "next": {
+    "title": "What is GeoSIS?",
+    "permalink": "/docs/whatisGeoSIS"
+  }
+}

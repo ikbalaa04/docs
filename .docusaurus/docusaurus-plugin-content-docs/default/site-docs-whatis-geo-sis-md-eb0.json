@@ -1,0 +1,26 @@
+{
+  "id": "whatisGeoSIS",
+  "title": "What is GeoSIS?",
+  "description": "GeoSIS is a Location Intelligence platform that provides various services including supporting needs in processing,",
+  "source": "@site/docs/whatisGeoSIS.md",
+  "sourceDirName": ".",
+  "slug": "/whatisGeoSIS",
+  "permalink": "/docs/whatisGeoSIS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GETTING STARTED",
+    "permalink": "/docs/getting-started"
+  },
+  "next": {
+    "title": "Quickstart Guides",
+    "permalink": "/docs/category/quickstart-guides"
+  }
+}

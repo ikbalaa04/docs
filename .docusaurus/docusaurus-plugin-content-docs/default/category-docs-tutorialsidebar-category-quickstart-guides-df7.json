@@ -6,11 +6,11 @@
   "navigation": {
     "previous": {
       "title": "What is GeoSIS?",
-      "permalink": "/docs/Get started/whatisGeoSIS"
+      "permalink": "/docs/what-is-GeoSIS"
     },
     "next": {
       "title": "Connecting to your data",
-      "permalink": "/docs/Get started/Quickstart/connect"
+      "permalink": "/docs/Quickstart/connect"
     }
   }
 }

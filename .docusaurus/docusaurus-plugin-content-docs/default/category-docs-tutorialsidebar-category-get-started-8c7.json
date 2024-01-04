@@ -4,12 +4,12 @@
   "permalink": "/docs/category/get-started",
   "navigation": {
     "previous": {
-      "title": "Welcome",
-      "permalink": "/docs/welcome"
+      "title": "What is GeoSIS?",
+      "permalink": "/docs/whatisGeoSIS"
     },
     "next": {
-      "title": "What is GeoSIS?",
-      "permalink": "/docs/Get started/whatisGeoSIS"
+      "title": "Quickstart Guides",
+      "permalink": "/docs/category/quickstart-guides"
     }
   }
 }

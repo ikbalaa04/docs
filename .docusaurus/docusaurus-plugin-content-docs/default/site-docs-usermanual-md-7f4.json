@@ -1,0 +1,26 @@
+{
+  "id": "usermanual",
+  "title": "USER MANUAL",
+  "description": "",
+  "source": "@site/docs/usermanual.md",
+  "sourceDirName": ".",
+  "slug": "/usermanual",
+  "permalink": "/docs/usermanual",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating your first workflow",
+    "permalink": "/docs/Quickstart/workflow"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

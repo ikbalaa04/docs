@@ -13,18 +13,44 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\project GEOSIS\\docs\\sidebars.js",
-          "contentPath": "D:\\project GEOSIS\\docs\\docs",
-          "contentPathLocalized": "D:\\project GEOSIS\\docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "D:\\Developer\\geosis\\docs\\sidebars.js",
+          "contentPath": "D:\\Developer\\geosis\\docs\\docs",
+          "contentPathLocalized": "D:\\Developer\\geosis\\docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "id": "Get started/Quickstart/connect",
+              "id": "getting-started",
+              "title": "GETTING STARTED",
+              "description": "",
+              "source": "@site/docs/getting-started.md",
+              "sourceDirName": ".",
+              "slug": "/getting-started",
+              "permalink": "/docs/getting-started",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Welcome",
+                "permalink": "/docs/welcome"
+              },
+              "next": {
+                "title": "What is GeoSIS?",
+                "permalink": "/docs/what-is-GeoSIS"
+              }
+            },
+            {
+              "id": "Quickstart/connect",
               "title": "Connecting to your data",
               "description": "While using demo data during your onboarding process is great for learning and exploring the platform, nothing feels more real than using your own data in CARTO to create stunning maps, powerful analyses, and interactive applications.",
-              "source": "@site/docs/Get started/Quickstart/connect.md",
-              "sourceDirName": "Get started/Quickstart",
-              "slug": "/Get started/Quickstart/connect",
-              "permalink": "/docs/Get started/Quickstart/connect",
+              "source": "@site/docs/Quickstart/connect.md",
+              "sourceDirName": "Quickstart",
+              "slug": "/Quickstart/connect",
+              "permalink": "/docs/Quickstart/connect",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -39,53 +65,60 @@
                 "permalink": "/docs/category/quickstart-guides"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "title": "Creating your first map",
+                "permalink": "/docs/Quickstart/creating"
               }
             },
             {
-              "id": "Get started/whatisGeoSIS",
-              "title": "What is GeoSIS?",
-              "description": "GeoSIS is a Location Intelligence platform that provides various services including supporting needs in processing,",
-              "source": "@site/docs/Get started/whatisGeoSIS.md",
-              "sourceDirName": "Get started",
-              "slug": "/Get started/whatisGeoSIS",
-              "permalink": "/docs/Get started/whatisGeoSIS",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "GET STARTED",
-                "permalink": "/docs/category/get-started"
-              },
-              "next": {
-                "title": "Quickstart Guides",
-                "permalink": "/docs/category/quickstart-guides"
-              }
-            },
-            {
-              "id": "Help/creating-account",
-              "title": "creating-account",
+              "id": "Quickstart/creating",
+              "title": "Creating your first map",
               "description": "",
-              "source": "@site/docs/Help/creating-account.md",
-              "sourceDirName": "Help",
-              "slug": "/Help/creating-account",
-              "permalink": "/docs/Help/creating-account",
+              "source": "@site/docs/Quickstart/creating.md",
+              "sourceDirName": "Quickstart",
+              "slug": "/Quickstart/creating",
+              "permalink": "/docs/Quickstart/creating",
               "draft": false,
               "unlisted": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Help",
-                "permalink": "/docs/category/help"
+                "title": "Connecting to your data",
+                "permalink": "/docs/Quickstart/connect"
+              },
+              "next": {
+                "title": "Creating your first workflow",
+                "permalink": "/docs/Quickstart/workflow"
+              }
+            },
+            {
+              "id": "Quickstart/workflow",
+              "title": "Creating your first workflow",
+              "description": "",
+              "source": "@site/docs/Quickstart/workflow.md",
+              "sourceDirName": "Quickstart",
+              "slug": "/Quickstart/workflow",
+              "permalink": "/docs/Quickstart/workflow",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Creating your first map",
+                "permalink": "/docs/Quickstart/creating"
+              },
+              "next": {
+                "title": "USER MANUAL",
+                "permalink": "/docs/user-manual"
               }
             },
             {
@@ -134,10 +167,32 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/docs/tutorial-extras/manage-docs-versions"
+              }
+            },
+            {
+              "id": "user-manual",
+              "title": "USER MANUAL",
+              "description": "",
+              "source": "@site/docs/user-manual.md",
+              "sourceDirName": ".",
+              "slug": "/user-manual",
+              "permalink": "/docs/user-manual",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Creating your first workflow",
+                "permalink": "/docs/Quickstart/workflow"
               },
               "next": {
-                "title": "Help",
-                "permalink": "/docs/category/help"
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
               }
             },
             {
@@ -158,8 +213,34 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "GET STARTED",
-                "permalink": "/docs/category/get-started"
+                "title": "GETTING STARTED",
+                "permalink": "/docs/getting-started"
+              }
+            },
+            {
+              "id": "what-is-GeoSIS",
+              "title": "What is GeoSIS?",
+              "description": "GeoSIS is a Location Intelligence platform that provides various services including supporting needs in processing,",
+              "source": "@site/docs/what-is-GeoSIS.md",
+              "sourceDirName": ".",
+              "slug": "/what-is-GeoSIS",
+              "permalink": "/docs/what-is-GeoSIS",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GETTING STARTED",
+                "permalink": "/docs/getting-started"
+              },
+              "next": {
+                "title": "Quickstart Guides",
+                "permalink": "/docs/category/quickstart-guides"
               }
             }
           ],
@@ -171,39 +252,42 @@
                 "id": "welcome"
               },
               {
+                "type": "doc",
+                "id": "getting-started"
+              },
+              {
+                "type": "doc",
+                "id": "what-is-GeoSIS"
+              },
+              {
                 "type": "category",
-                "label": "GET STARTED",
+                "label": "Quickstart Guides",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Get started/whatisGeoSIS"
+                    "id": "Quickstart/connect"
                   },
                   {
-                    "type": "category",
-                    "label": "Quickstart Guides",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Get started/Quickstart/connect"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "These guides will help you get started with CARTO. They're easy to follow with detailed steps, and will help you kickstart your project with your own connections, maps, workflows, and applications.",
-                      "slug": "/category/quickstart-guides",
-                      "permalink": "/docs/category/quickstart-guides"
-                    }
+                    "type": "doc",
+                    "id": "Quickstart/creating"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Quickstart/workflow"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/get-started",
-                  "permalink": "/docs/category/get-started"
+                  "description": "These guides will help you get started with CARTO. They're easy to follow with detailed steps, and will help you kickstart your project with your own connections, maps, workflows, and applications.",
+                  "slug": "/category/quickstart-guides",
+                  "permalink": "/docs/category/quickstart-guides"
                 }
+              },
+              {
+                "type": "doc",
+                "id": "user-manual"
               },
               {
                 "type": "category",
@@ -224,23 +308,6 @@
                   "type": "generated-index",
                   "slug": "/category/tutorial---extras",
                   "permalink": "/docs/category/tutorial---extras"
-                }
-              },
-              {
-                "type": "category",
-                "label": "Help",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Help/creating-account"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/help",
-                  "permalink": "/docs/category/help"
                 }
               }
             ]
@@ -313,7 +380,7 @@
               "permalink": "/blog/mdx-blog-post"
             }
           },
-          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\r\n\r\nSimply add Markdown files (or folders) to the `blog` directory.\r\n\r\nRegular blog authors can be added to `authors.yml`.\r\n\r\nThe blog post date can be extracted from filenames, such as:\r\n\r\n- `2019-05-30-welcome.md`\r\n- `2019-05-30-welcome/index.md`\r\n\r\nA blog post folder can be convenient to co-locate blog post images:\r\n\r\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\r\n\r\nThe blog supports tags as well!\r\n\r\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
         },
         {
           "id": "mdx-blog-post",
@@ -361,7 +428,7 @@
               "permalink": "/blog/long-blog-post"
             }
           },
-          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\r\n\r\n:::tip\r\n\r\nUse the power of React to create interactive blog posts.\r\n\r\n```js\r\n<button onClick={() => alert('button clicked!')}>Click me!</button>\r\n```\r\n\r\n<button onClick={() => alert('button clicked!')}>Click me!</button>\r\n\r\n:::"
         },
         {
           "id": "long-blog-post",
@@ -412,7 +479,7 @@
               "permalink": "/blog/first-blog-post"
             }
           },
-          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+          "content": "This is the summary of a very long blog post,\r\n\r\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\r\n\r\n<!--truncate-->\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
         },
         {
           "id": "first-blog-post",

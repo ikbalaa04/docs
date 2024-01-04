@@ -1,0 +1,23 @@
+{
+  "id": "Quickstart/started",
+  "title": "started",
+  "description": "",
+  "source": "@site/docs/Quickstart/started.md",
+  "sourceDirName": "Quickstart",
+  "slug": "/Quickstart/started",
+  "permalink": "/docs/Quickstart/started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating your first workflow",
+    "permalink": "/docs/Quickstart/workflow"
+  },
+  "next": {
+    "title": "USER MANUAL",
+    "permalink": "/docs/category/user-manual"
+  }
+}

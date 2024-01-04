@@ -1,0 +1,26 @@
+{
+  "id": "Quickstart/connect",
+  "title": "Connecting to your data",
+  "description": "While using demo data during your onboarding process is great for learning and exploring the platform, nothing feels more real than using your own data in CARTO to create stunning maps, powerful analyses, and interactive applications.",
+  "source": "@site/docs/Quickstart/connect.md",
+  "sourceDirName": "Quickstart",
+  "slug": "/Quickstart/connect",
+  "permalink": "/docs/Quickstart/connect",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart Guides",
+    "permalink": "/docs/category/quickstart-guides"
+  },
+  "next": {
+    "title": "Creating your first map",
+    "permalink": "/docs/Quickstart/creating"
+  }
+}

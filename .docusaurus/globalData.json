@@ -11,18 +11,23 @@
           "mainDocId": "welcome",
           "docs": [
             {
-              "id": "Get started/Quickstart/connect",
-              "path": "/docs/Get started/Quickstart/connect",
+              "id": "getting-started",
+              "path": "/docs/getting-started",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Get started/whatisGeoSIS",
-              "path": "/docs/Get started/whatisGeoSIS",
+              "id": "Quickstart/connect",
+              "path": "/docs/Quickstart/connect",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Help/creating-account",
-              "path": "/docs/Help/creating-account",
+              "id": "Quickstart/creating",
+              "path": "/docs/Quickstart/creating",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Quickstart/workflow",
+              "path": "/docs/Quickstart/workflow",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -36,13 +41,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "user-manual",
+              "path": "/docs/user-manual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "welcome",
               "path": "/docs/welcome",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/get-started",
-              "path": "/docs/category/get-started",
+              "id": "what-is-GeoSIS",
+              "path": "/docs/what-is-GeoSIS",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -53,11 +63,6 @@
             {
               "id": "/category/tutorial---extras",
               "path": "/docs/category/tutorial---extras",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/help",
-              "path": "/docs/category/help",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -1,0 +1,26 @@
+{
+  "id": "Quickstart/creating",
+  "title": "Creating your first map",
+  "description": "",
+  "source": "@site/docs/Quickstart/creating.md",
+  "sourceDirName": "Quickstart",
+  "slug": "/Quickstart/creating",
+  "permalink": "/docs/Quickstart/creating",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connecting to your data",
+    "permalink": "/docs/Quickstart/connect"
+  },
+  "next": {
+    "title": "Creating your first workflow",
+    "permalink": "/docs/Quickstart/workflow"
+  }
+}

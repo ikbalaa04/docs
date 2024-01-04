@@ -4,123 +4,111 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '4d0'),
+    component: ComponentCreator('/__docusaurus/debug', 'ff8'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'bdf'),
+    component: ComponentCreator('/__docusaurus/debug/config', '601'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'e58'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'a8e'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'ed2'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '2a3'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'c53'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'd9a'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'd51'),
+    component: ComponentCreator('/__docusaurus/debug/registry', 'e13'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'b57'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '68f'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '4df'),
+    component: ComponentCreator('/blog', 'ff8'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'd79'),
+    component: ComponentCreator('/blog/archive', 'a27'),
     exact: true
   },
   {
     path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '8b4'),
+    component: ComponentCreator('/blog/first-blog-post', 'c6e'),
     exact: true
   },
   {
     path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '95a'),
+    component: ComponentCreator('/blog/long-blog-post', '971'),
     exact: true
   },
   {
     path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'b04'),
+    component: ComponentCreator('/blog/mdx-blog-post', '8ca'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '27d'),
+    component: ComponentCreator('/blog/tags', 'c22'),
     exact: true
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'c58'),
+    component: ComponentCreator('/blog/tags/docusaurus', '37c'),
     exact: true
   },
   {
     path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'f27'),
+    component: ComponentCreator('/blog/tags/facebook', 'fa5'),
     exact: true
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '4d0'),
+    component: ComponentCreator('/blog/tags/hello', 'd19'),
     exact: true
   },
   {
     path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '0d5'),
+    component: ComponentCreator('/blog/tags/hola', '4cd'),
     exact: true
   },
   {
     path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '703'),
+    component: ComponentCreator('/blog/welcome', '44a'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '09c'),
+    component: ComponentCreator('/markdown-page', 'cf4'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'fff'),
+    component: ComponentCreator('/docs', '779'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '82a'),
+        component: ComponentCreator('/docs', '94a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '7ef'),
+            component: ComponentCreator('/docs', '48f'),
             routes: [
-              {
-                path: '/docs/category/get-started',
-                component: ComponentCreator('/docs/category/get-started', '9e4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/help',
-                component: ComponentCreator('/docs/category/help', '998'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/docs/category/quickstart-guides',
                 component: ComponentCreator('/docs/category/quickstart-guides', '810'),
@@ -134,20 +122,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Get started/Quickstart/connect',
-                component: ComponentCreator('/docs/Get started/Quickstart/connect', '960'),
+                path: '/docs/getting-started',
+                component: ComponentCreator('/docs/getting-started', 'a24'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Get started/whatisGeoSIS',
-                component: ComponentCreator('/docs/Get started/whatisGeoSIS', '770'),
+                path: '/docs/Quickstart/connect',
+                component: ComponentCreator('/docs/Quickstart/connect', '071'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Help/creating-account',
-                component: ComponentCreator('/docs/Help/creating-account', '4bc'),
+                path: '/docs/Quickstart/creating',
+                component: ComponentCreator('/docs/Quickstart/creating', 'c71'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Quickstart/workflow',
+                component: ComponentCreator('/docs/Quickstart/workflow', 'ae3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -164,8 +158,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/user-manual',
+                component: ComponentCreator('/docs/user-manual', 'e80'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/welcome',
                 component: ComponentCreator('/docs/welcome', 'a64'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/what-is-GeoSIS',
+                component: ComponentCreator('/docs/what-is-GeoSIS', 'b2b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -177,7 +183,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '1a4'),
+    component: ComponentCreator('/', '61c'),
     exact: true
   },
   {

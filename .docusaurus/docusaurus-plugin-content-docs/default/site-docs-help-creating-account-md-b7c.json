@@ -15,5 +15,9 @@
   "previous": {
     "title": "Help",
     "permalink": "/docs/category/help"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
   }
 }

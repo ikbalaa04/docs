@@ -17,36 +17,55 @@
         "unlisted": false
       },
       {
+        "type": "link",
+        "label": "GETTING STARTED",
+        "href": "/docs/getting-started",
+        "docId": "getting-started",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "What is GeoSIS?",
+        "href": "/docs/what-is-GeoSIS",
+        "docId": "what-is-GeoSIS",
+        "unlisted": false
+      },
+      {
         "type": "category",
-        "label": "GET STARTED",
+        "label": "Quickstart Guides",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "What is GeoSIS?",
-            "href": "/docs/Get started/whatisGeoSIS",
-            "docId": "Get started/whatisGeoSIS",
+            "label": "Connecting to your data",
+            "href": "/docs/Quickstart/connect",
+            "docId": "Quickstart/connect",
             "unlisted": false
           },
           {
-            "type": "category",
-            "label": "Quickstart Guides",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Connecting to your data",
-                "href": "/docs/Get started/Quickstart/connect",
-                "docId": "Get started/Quickstart/connect",
-                "unlisted": false
-              }
-            ],
-            "href": "/docs/category/quickstart-guides"
+            "type": "link",
+            "label": "Creating your first map",
+            "href": "/docs/Quickstart/creating",
+            "docId": "Quickstart/creating",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Creating your first workflow",
+            "href": "/docs/Quickstart/workflow",
+            "docId": "Quickstart/workflow",
+            "unlisted": false
           }
         ],
-        "href": "/docs/category/get-started"
+        "href": "/docs/category/quickstart-guides"
+      },
+      {
+        "type": "link",
+        "label": "USER MANUAL",
+        "href": "/docs/user-manual",
+        "docId": "user-manual",
+        "unlisted": false
       },
       {
         "type": "category",
@@ -70,41 +89,31 @@
           }
         ],
         "href": "/docs/category/tutorial---extras"
-      },
-      {
-        "type": "category",
-        "label": "Help",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "creating-account",
-            "href": "/docs/Help/creating-account",
-            "docId": "Help/creating-account",
-            "unlisted": false
-          }
-        ],
-        "href": "/docs/category/help"
       }
     ]
   },
   "docs": {
-    "Get started/Quickstart/connect": {
-      "id": "Get started/Quickstart/connect",
+    "getting-started": {
+      "id": "getting-started",
+      "title": "GETTING STARTED",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Quickstart/connect": {
+      "id": "Quickstart/connect",
       "title": "Connecting to your data",
       "description": "While using demo data during your onboarding process is great for learning and exploring the platform, nothing feels more real than using your own data in CARTO to create stunning maps, powerful analyses, and interactive applications.",
       "sidebar": "tutorialSidebar"
     },
-    "Get started/whatisGeoSIS": {
-      "id": "Get started/whatisGeoSIS",
-      "title": "What is GeoSIS?",
-      "description": "GeoSIS is a Location Intelligence platform that provides various services including supporting needs in processing,",
+    "Quickstart/creating": {
+      "id": "Quickstart/creating",
+      "title": "Creating your first map",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Help/creating-account": {
-      "id": "Help/creating-account",
-      "title": "creating-account",
+    "Quickstart/workflow": {
+      "id": "Quickstart/workflow",
+      "title": "Creating your first workflow",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
@@ -120,10 +129,22 @@
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },
+    "user-manual": {
+      "id": "user-manual",
+      "title": "USER MANUAL",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "welcome": {
       "id": "welcome",
       "title": "Welcome",
       "description": "Welcome to the CARTO Documentation Center!",
+      "sidebar": "tutorialSidebar"
+    },
+    "what-is-GeoSIS": {
+      "id": "what-is-GeoSIS",
+      "title": "What is GeoSIS?",
+      "description": "GeoSIS is a Location Intelligence platform that provides various services including supporting needs in processing,",
       "sidebar": "tutorialSidebar"
     }
   }
