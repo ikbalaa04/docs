@@ -11,57 +11,22 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Introduction",
-        "href": "/docs/intro",
-        "docId": "intro",
+        "label": "Welcome",
+        "href": "/docs/welcome",
+        "docId": "welcome",
         "unlisted": false
       },
       {
         "type": "category",
-        "label": "Get started",
+        "label": "GET STARTED",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/Get started/create-a-page",
-            "docId": "Get started/create-a-page",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/Get started/create-a-document",
-            "docId": "Get started/create-a-document",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/Get started/create-a-blog-post",
-            "docId": "Get started/create-a-blog-post",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/Get started/markdown-features",
-            "docId": "Get started/markdown-features",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/Get started/deploy-your-site",
-            "docId": "Get started/deploy-your-site",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/Get started/congratulations",
-            "docId": "Get started/congratulations",
+            "label": "What is GeoSIS?",
+            "href": "/docs/Get started/whatisGeoSIS",
+            "docId": "Get started/whatisGeoSIS",
             "unlisted": false
           }
         ],
@@ -109,52 +74,16 @@
     ]
   },
   "docs": {
-    "Get started/congratulations": {
-      "id": "Get started/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Get started/create-a-blog-post": {
-      "id": "Get started/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-      "sidebar": "tutorialSidebar"
-    },
-    "Get started/create-a-document": {
-      "id": "Get started/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
-      "sidebar": "tutorialSidebar"
-    },
-    "Get started/create-a-page": {
-      "id": "Get started/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "Get started/deploy-your-site": {
-      "id": "Get started/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
-    },
-    "Get started/markdown-features": {
-      "id": "Get started/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
+    "Get started/whatisGeoSIS": {
+      "id": "Get started/whatisGeoSIS",
+      "title": "What is GeoSIS?",
+      "description": "GeoSIS is a Location Intelligence platform that provides various services including supporting needs in processing,",
       "sidebar": "tutorialSidebar"
     },
     "Help/creating-account": {
       "id": "Help/creating-account",
       "title": "creating-account",
       "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "intro": {
-      "id": "intro",
-      "title": "Introduction",
-      "description": "What Is GeoSIS?",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-extras/manage-docs-versions": {
@@ -167,6 +96,12 @@
       "id": "tutorial-extras/translate-your-site",
       "title": "Translate your site",
       "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "welcome": {
+      "id": "welcome",
+      "title": "Welcome",
+      "description": "Welcome to the CARTO Documentation Center!",
       "sidebar": "tutorialSidebar"
     }
   }

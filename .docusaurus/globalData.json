@@ -8,46 +8,16 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "welcome",
           "docs": [
             {
-              "id": "Get started/congratulations",
-              "path": "/docs/Get started/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Get started/create-a-blog-post",
-              "path": "/docs/Get started/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Get started/create-a-document",
-              "path": "/docs/Get started/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Get started/create-a-page",
-              "path": "/docs/Get started/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Get started/deploy-your-site",
-              "path": "/docs/Get started/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Get started/markdown-features",
-              "path": "/docs/Get started/markdown-features",
+              "id": "Get started/whatisGeoSIS",
+              "path": "/docs/Get started/whatisGeoSIS",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Help/creating-account",
               "path": "/docs/Help/creating-account",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -58,6 +28,11 @@
             {
               "id": "tutorial-extras/translate-your-site",
               "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "welcome",
+              "path": "/docs/welcome",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -80,8 +55,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/welcome",
+                "label": "welcome"
               }
             }
           }

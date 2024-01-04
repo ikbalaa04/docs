@@ -1,0 +1,22 @@
+{
+  "id": "welcome",
+  "title": "Welcome",
+  "description": "Welcome to the CARTO Documentation Center!",
+  "source": "@site/docs/welcome.md",
+  "sourceDirName": ".",
+  "slug": "/welcome",
+  "permalink": "/docs/welcome",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "GET STARTED",
+    "permalink": "/docs/category/get-started"
+  }
+}

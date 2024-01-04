@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Blog Post",
-    "permalink": "/docs/Get started/create-a-blog-post"
+    "title": "What is GeoSIS?",
+    "permalink": "/docs/Get started/whatisGeoSIS"
   },
   "next": {
-    "title": "Deploy your site",
-    "permalink": "/docs/Get started/deploy-your-site"
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
   }
 }

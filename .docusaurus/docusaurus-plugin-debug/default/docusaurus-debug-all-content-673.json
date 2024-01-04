@@ -18,65 +18,13 @@
           "contentPathLocalized": "D:\\project GEOSIS\\docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "id": "Get started/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/Get started/congratulations.md",
+              "id": "Get started/whatisGeoSIS",
+              "title": "What is GeoSIS?",
+              "description": "GeoSIS is a Location Intelligence platform that provides various services including supporting needs in processing,",
+              "source": "@site/docs/Get started/whatisGeoSIS.md",
               "sourceDirName": "Get started",
-              "slug": "/Get started/congratulations",
-              "permalink": "/docs/Get started/congratulations",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/Get started/deploy-your-site"
-              },
-              "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
-              }
-            },
-            {
-              "id": "Get started/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/Get started/create-a-blog-post.md",
-              "sourceDirName": "Get started",
-              "slug": "/Get started/create-a-blog-post",
-              "permalink": "/docs/Get started/create-a-blog-post",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/Get started/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/Get started/markdown-features"
-              }
-            },
-            {
-              "id": "Get started/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/Get started/create-a-document.md",
-              "sourceDirName": "Get started",
-              "slug": "/Get started/create-a-document",
-              "permalink": "/docs/Get started/create-a-document",
+              "slug": "/Get started/whatisGeoSIS",
+              "permalink": "/docs/Get started/whatisGeoSIS",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -87,90 +35,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Page",
-                "permalink": "/docs/Get started/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/Get started/create-a-blog-post"
-              }
-            },
-            {
-              "id": "Get started/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/Get started/create-a-page.md",
-              "sourceDirName": "Get started",
-              "slug": "/Get started/create-a-page",
-              "permalink": "/docs/Get started/create-a-page",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Get started",
+                "title": "GET STARTED",
                 "permalink": "/docs/category/get-started"
               },
               "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/Get started/create-a-document"
-              }
-            },
-            {
-              "id": "Get started/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/Get started/deploy-your-site.md",
-              "sourceDirName": "Get started",
-              "slug": "/Get started/deploy-your-site",
-              "permalink": "/docs/Get started/deploy-your-site",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/docs/Get started/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/Get started/congratulations"
-              }
-            },
-            {
-              "id": "Get started/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/Get started/markdown-features.mdx",
-              "sourceDirName": "Get started",
-              "slug": "/Get started/markdown-features",
-              "permalink": "/docs/Get started/markdown-features",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/Get started/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/docs/Get started/deploy-your-site"
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
               }
             },
             {
@@ -190,28 +60,6 @@
               "previous": {
                 "title": "Help",
                 "permalink": "/docs/category/help"
-              }
-            },
-            {
-              "id": "intro",
-              "title": "Introduction",
-              "description": "What Is GeoSIS?",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Get started",
-                "permalink": "/docs/category/get-started"
               }
             },
             {
@@ -265,6 +113,28 @@
                 "title": "Help",
                 "permalink": "/docs/category/help"
               }
+            },
+            {
+              "id": "welcome",
+              "title": "Welcome",
+              "description": "Welcome to the CARTO Documentation Center!",
+              "source": "@site/docs/welcome.md",
+              "sourceDirName": ".",
+              "slug": "/welcome",
+              "permalink": "/docs/welcome",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "GET STARTED",
+                "permalink": "/docs/category/get-started"
+              }
             }
           ],
           "drafts": [],
@@ -272,42 +142,21 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "intro"
+                "id": "welcome"
               },
               {
                 "type": "category",
-                "label": "Get started",
+                "label": "GET STARTED",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Get started/create-a-page"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Get started/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Get started/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Get started/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Get started/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Get started/congratulations"
+                    "id": "Get started/whatisGeoSIS"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/get-started",
                   "permalink": "/docs/category/get-started"
                 }

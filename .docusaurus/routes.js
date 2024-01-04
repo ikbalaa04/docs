@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'dd7'),
+    component: ComponentCreator('/docs', '1d2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '825'),
+        component: ComponentCreator('/docs', '589'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5de'),
+            component: ComponentCreator('/docs', '272'),
             routes: [
               {
                 path: '/docs/category/get-started',
@@ -128,50 +128,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Get started/congratulations',
-                component: ComponentCreator('/docs/Get started/congratulations', 'c57'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Get started/create-a-blog-post',
-                component: ComponentCreator('/docs/Get started/create-a-blog-post', 'b57'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Get started/create-a-document',
-                component: ComponentCreator('/docs/Get started/create-a-document', '31e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Get started/create-a-page',
-                component: ComponentCreator('/docs/Get started/create-a-page', '935'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Get started/deploy-your-site',
-                component: ComponentCreator('/docs/Get started/deploy-your-site', '856'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Get started/markdown-features',
-                component: ComponentCreator('/docs/Get started/markdown-features', '5cc'),
+                path: '/docs/Get started/whatisGeoSIS',
+                component: ComponentCreator('/docs/Get started/whatisGeoSIS', '770'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Help/creating-account',
                 component: ComponentCreator('/docs/Help/creating-account', '4bc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', 'aed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -184,6 +148,12 @@ export default [
               {
                 path: '/docs/tutorial-extras/translate-your-site',
                 component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/welcome',
+                component: ComponentCreator('/docs/welcome', 'a64'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

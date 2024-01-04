@@ -186,17 +186,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-dd7": {
+  "/docs-1d2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsfe-3-b6f"
     }
   },
-  "/docs-825": {
+  "/docs-589": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-5de": {
+  "/docs-272": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/get-started-9e4": {
@@ -211,37 +211,13 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
   },
-  "/docs/Get started/congratulations-c57": {
+  "/docs/Get started/whatisGeoSIS-770": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-congratulations-79-e-c03"
-  },
-  "/docs/Get started/create-a-blog-post-b57": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-create-a-blog-postcde-44f"
-  },
-  "/docs/Get started/create-a-document-31e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-create-a-documentc-24-b03"
-  },
-  "/docs/Get started/create-a-page-935": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-create-a-page-7-ff-bf5"
-  },
-  "/docs/Get started/deploy-your-site-856": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-deploy-your-sitebdd-d1d"
-  },
-  "/docs/Get started/markdown-features-5cc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-markdown-featuresaa-2-abb"
+    "content": "content---docs-get-started-whatis-geo-sis-94-e-16c"
   },
   "/docs/Help/creating-account-4bc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-help-creating-accountb-7-c-6e1"
-  },
-  "/docs/intro-aed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -250,6 +226,10 @@
   "/docs/tutorial-extras/translate-your-site-2d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+  },
+  "/docs/welcome-a64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-welcomeebf-790"
   },
   "/-1a4": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Introduction",
-  "description": "What Is GeoSIS?",
+  "title": "Welcome",
+  "description": "Welcome to the CARTO Documentation Center!",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Get started",
+    "title": "GET STARTED",
     "permalink": "/docs/category/get-started"
   }
 }

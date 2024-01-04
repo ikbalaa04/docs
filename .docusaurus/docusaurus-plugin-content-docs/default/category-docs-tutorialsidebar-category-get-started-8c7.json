@@ -1,16 +1,15 @@
 {
-  "title": "Get started",
-  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "title": "GET STARTED",
   "slug": "/category/get-started",
   "permalink": "/docs/category/get-started",
   "navigation": {
     "previous": {
-      "title": "Introduction",
-      "permalink": "/docs/intro"
+      "title": "Welcome",
+      "permalink": "/docs/welcome"
     },
     "next": {
-      "title": "Create a Page",
-      "permalink": "/docs/Get started/create-a-page"
+      "title": "What is GeoSIS?",
+      "permalink": "/docs/Get started/whatisGeoSIS"
     }
   }
 }

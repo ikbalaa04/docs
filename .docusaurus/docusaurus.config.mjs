@@ -5,7 +5,6 @@
  */
 export default {
   "title": "GeoSIS",
-  "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
@@ -40,7 +39,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Documentation",
+      "title": "GoSIS Docs",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo_geosis.png"
@@ -304,6 +303,7 @@ export default {
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
+  "tagline": "",
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {

@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Document",
-    "permalink": "/docs/Get started/create-a-document"
+    "title": "What is GeoSIS?",
+    "permalink": "/docs/Get started/whatisGeoSIS"
   },
   "next": {
     "title": "Markdown Features",
